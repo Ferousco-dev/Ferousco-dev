@@ -7,6 +7,14 @@ I build scalable web apps, mobile apps and experimental projects.
 
 ---
 
+### ⌨️ About Me
+
+- 💻 Full-Stack Web & Mobile Developer  
+- 🌱 Learning Python Windows Apps & Advanced Backend  
+- 🚀 Passionate about Flutter & modern UI  
+
+---
+
 ### ⚡ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
@@ -35,32 +43,34 @@ I build scalable web apps, mobile apps and experimental projects.
 
 ---
 
-### 🔥 Contribution Streak
+### 🔥 Contribution Streak + Snake Game
 
-![GitHub streak](https://streak-stats.demolab.com?user=Ferousco-dev&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ferousco-dev&theme=onedark)
+![Snake animation](https://github.com/Ferousco-dev/Ferousco-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🌱 Currently Learning
+### 👀 Profile Visitors
 
-- Advanced Backend Systems
-- Python Windows Applications
-- Mobile App Development with Flutter
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ferousco-dev.Ferousco-dev)
+
+---
+
+### ⌨️ Animated Typing Intro
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00ffea&center=true&width=600&lines=Full-Stack+Developer;Flutter+Developer;Web+&+Mobile+Apps+Builder" />
+</p>
+
+---
+
+### 🎨 Dev Icons Section
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,dart" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
 
-GitHub: https://github.com/Ferousco-dev- API Architecture
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Ferousco-dev
+GitHub: https://github.com/Ferousco-dev
