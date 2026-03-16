@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Feranmi" width="150" style="border-radius:50%; border: 5px solid #00ffea; box-shadow: 0 0 20px #00ffea;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Feranmi</h1>
 <h3 align="center">Full-Stack Developer | Flutter Developer 🚀</h3>
 
 <p align="center">
-I build scalable web apps, mobile apps and experimental projects.
+I build scalable web apps, mobile apps, and experimental projects.
 </p>
 
 ---
@@ -12,65 +16,91 @@ I build scalable web apps, mobile apps and experimental projects.
 - 💻 Full-Stack Web & Mobile Developer  
 - 🌱 Learning Python Windows Apps & Advanced Backend  
 - 🚀 Passionate about Flutter & modern UI  
+- 🎯 Always experimenting with new tech & designs  
 
 ---
 
 ### ⚡ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,dart,git,github" style="transition: transform 0.3s;" />
+</p>
+
+<em>Hover over icons to see them pop! (works in README preview)</em>
 
 ---
 
-### 🚀 Current Projects
+### 🚀 Projects (Animated Cards)
 
-- 🔹 Social Media Platform  
-- 🔹 Offline File Transfer System  
-- 🔹 Puzzle Web Game  
-- 🔹 Anonymous Social App (AnonPro)
+<p align="center">
+<a href="https://github.com/Ferousco-dev/social-media-platform">
+  <img src="https://img.shields.io/badge/Social%20Media%20Platform-FF6F61?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Ferousco-dev/offline-file-transfer">
+  <img src="https://img.shields.io/badge/Offline%20File%20Transfer-6F86FF?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Ferousco-dev/puzzle-web-game">
+  <img src="https://img.shields.io/badge/Puzzle%20Web%20Game-FFCA28?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Ferousco-dev/anonpro">
+  <img src="https://img.shields.io/badge/Anonymous%20App-00C853?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferousco-dev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ferousco-dev&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 🔥 Contribution Streak + Snake Game
+### 🔥 Contribution Graph (Snake + Rainbow)
 
-![Snake animation](https://github.com/Ferousco-dev/Ferousco-dev/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Ferousco-dev/Ferousco-dev/blob/output/github-contribution-grid-snake.svg" />
+</p>
+<em>Snake animation eats your commits! 🌈</em>
 
 ---
 
 ### 👀 Profile Visitors
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ferousco-dev.Ferousco-dev)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ferousco-dev.Ferousco-dev" />
+</p>
 
 ---
 
 ### ⌨️ Animated Typing Intro
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00ffea&center=true&width=600&lines=Full-Stack+Developer;Flutter+Developer;Web+&+Mobile+Apps+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ffea&center=true&width=650&lines=Full-Stack+Developer;Flutter+Developer;Web+&+Mobile+Apps+Builder;Python+Windows+Apps" />
 </p>
 
 ---
 
-### 🎨 Dev Icons Section
+### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,dart" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ferousco-dev&theme=onedark&row=1&column=7" />
 </p>
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Backend Systems  
+- Python Windows Applications  
+- Mobile App Development with Flutter  
+- CI/CD & GitHub Actions  
 
 ---
 
 ### 📫 Connect With Me
 
-GitHub: https://github.com/Ferousco-dev
+<p align="center">
+<a href="https://github.com/Ferousco-dev">GitHub</a> | <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> | <a href="https://twitter.com/your-twitter">Twitter</a>
+</p>
