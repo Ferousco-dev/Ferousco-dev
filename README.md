@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Feranmi</h1>
-<h3 align="center">Full-Stack Developer | Flutter Developer 🚀</h3>
+<h3 align="center">Front end Developer | Flutter Developer 🚀</h3>
 
 <p align="center">
 I build scalable web apps, mobile apps, and experimental projects.
