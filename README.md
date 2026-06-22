@@ -1,4 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=200&section=header&text=Oluwaferanmi%20Oresajo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Mobile%20Developer%20%C2%B7%20Flutter&descSize=18&descAlignY=58" alt="header" />
+<h1 align="center">Oluwaferanmi Oresajo</h1>
+<h3 align="center">Frontend &amp; Mobile Developer · Flutter</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=00B4D8&center=true&width=480&lines=Frontend+Developer;Flutter+%26+Mobile+Developer;Clean%2C+modern+UI" alt="typing" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oluwaferanmi-oresajo-6597222a7/">
@@ -13,9 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ferousco-dev&label=Profile%20views&color=00B4D8&style=for-the-badge" alt="views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=600&color=00B4D8&center=true&width=480&lines=Frontend+Developer;Flutter+%26+Mobile+Developer;Clean%2C+modern+UI" alt="typing" />
-</p>
+---
 
 ##  About Me
 
@@ -42,15 +45,9 @@ An NFC-based payments app. Tap-to-pay made simple, letting users send and receiv
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ferousco-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferousco-dev&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferousco-dev&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferousco-dev&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ferousco-dev&theme=onedark&no-bg=true&row=1&column=7" alt="trophies" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:02569B&height=120&section=footer" alt="footer" />
