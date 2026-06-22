@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=180&section=header" alt="header" />
+
 <h1 align="center">Oluwaferanmi Oresajo</h1>
 <h3 align="center">Frontend &amp; Mobile Developer · Flutter</h3>
 
@@ -17,8 +19,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Ferousco-dev&label=Profile%20views&color=00B4D8&style=for-the-badge" alt="views" />
 </p>
-
----
 
 ##  About Me
 
@@ -51,3 +51,5 @@ An NFC-based payments app. Tap-to-pay made simple, letting users send and receiv
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ferousco-dev&theme=onedark&no-bg=true&row=1&column=7" alt="trophies" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:02569B&height=120&section=footer" alt="footer" />
