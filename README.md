@@ -5,18 +5,18 @@
 <h1 align="center">Hi 👋, I'm Feranmi</h1>
 <h3 align="center">Frontend Developer | Flutter Developer 🚀</h3>
 
-<p align="center">I build scalable web apps, mobile apps, and experimental projects.</p>
+<p align="center">I build web and mobile apps with a focus on clean, modern UI.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00B4D8&center=true&width=500&lines=Full-Stack+Developer;Flutter+Developer;Web+%26+Mobile+Apps+Builder;Python+Windows+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00B4D8&center=true&width=500&lines=Frontend+Developer;Flutter+Developer;Mobile+App+Builder;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-- 💻 Full-Stack Web & Mobile Developer
-- 🌱 Currently learning Python Windows apps & advanced backend
+- 📱 Frontend & Mobile Developer
+- 💙 I build with Flutter, React, and Python
 - 🚀 Passionate about Flutter & modern UI
 - 🎯 Always experimenting with new tech & designs
 
@@ -25,7 +25,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,dart,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,python,html,css,js,git,github" alt="Tech stack" />
 </p>
 
 ---
@@ -75,11 +75,11 @@
   <a href="https://github.com/Ferousco-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/oluwaferanmi-oresajo-6597222a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/fer_nmi">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
