@@ -41,6 +41,29 @@ A tool built for informal workers, giving them a simple, accessible way to manag
 ### 💳 [TapPay](https://github.com/Ferousco-dev/TapPay)
 An NFC-based payments app. Tap-to-pay made simple, letting users send and receive money with a single contactless tap.
 
+## 👾 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
