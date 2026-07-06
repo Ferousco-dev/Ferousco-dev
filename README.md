@@ -62,17 +62,5 @@ An NFC-based payments app. Tap-to-pay made simple, letting users send and receiv
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ferousco-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferousco-dev&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferousco-dev&theme=onedark&no-bg=true&row=1&column=7" alt="trophies" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:02569B&height=120&section=footer" alt="footer" />
