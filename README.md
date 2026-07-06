@@ -48,15 +48,15 @@ An NFC-based payments app. Tap-to-pay made simple, letting users send and receiv
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+    srcset="https://github.com/Ferousco-dev/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/Ferousco-dev/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
   <img
     alt="Pacman contribution graph"
-    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    src="https://github.com/Ferousco-dev/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
 </picture>
 
