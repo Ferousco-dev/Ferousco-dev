@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=200&section=header&text=Oluwaferanmi%20Oresajo&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=32&desc=Frontend%20%C2%B7%20Mobile%20%C2%B7%20AI%20Builder&descAlignY=54&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=200&section=header&text=Oluwaferanmi%20Oresajo&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=32&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=54&descSize=18" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00B4D8&center=true&width=520&lines=Building+AI-powered+products+for+real+people;Flutter+%C2%B7+Next.js+%C2%B7+Python;Turning+messy+ideas+into+shipped+apps;Clean%2C+modern%2C+human+UI" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00B4D8&center=true&width=560&lines=Yes%2C+I+did+center+the+div;Flutter+by+day%2C+Next.js+by+night;I+make+buttons+that+actually+work;Warning%3A+may+refactor+your+UI+unprompted" alt="typing" />
 </p>
 
 <p align="center">
@@ -22,34 +22,34 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```typescript
 const feranmi = {
-  role: "Frontend, Mobile & AI Developer",
-  founder: "AppMD",
-  stack: ["Flutter", "Next.js", "React", "TypeScript", "Python"],
-  focus: "Shipping clean, modern products that solve real problems",
-  building: ["AI tools", "mobile apps", "social commerce", "study tools"],
-  mindset: "Dignity, accessibility, and speed — build for real people",
+  title: "Frontend & Mobile Developer",
+  founder: "Ferousco",
+  weapons: ["Flutter", "Next.js", "React", "TypeScript"],
+  specialty: "Making things look good AND actually work",
+  currentMood: "centering a div (it's fine, i'm fine)",
+  isBackendGuy: false, // don't ask me to write your API abeg
 };
 ```
 
-I build across **web and mobile** with a bias for shipping. From AI agents and voice tools to campus fintech and an autism communication app, I like taking a real problem and turning it into something people can actually use.
+I build for **web and mobile**, and I care an unreasonable amount about how things feel to use. If a button is one pixel off, it haunts me. I've shipped everything from campus food-ordering to a communication app for kids — same energy every time: make it clean, make it fast, make it human.
 
-## 🚀 Currently Building
+## Currently Building
 
-- 🤖 **AI-powered products** — voice, agents, and social commerce
-- 📱 **Flutter apps** with Supabase & Firebase backends
-- 🌍 Tools for students, informal workers, and everyday users
+- Slick Flutter apps that don't look like tutorials
+- Next.js sites with the kind of animations that make people scroll twice
+- Whatever new idea hijacked my brain this week
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,react,js,python,nodejs,supabase,firebase,tailwind,html,css,git,github,figma,vercel&perline=9" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,react,js,html,css,tailwind,figma,git,github,vercel&perline=13" alt="tech stack" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferousco-dev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=00B4D8&title_color=00B4D8" alt="stats" />
@@ -60,23 +60,19 @@ I build across **web and mobile** with a bias for shipping. From AI agents and v
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferousco-dev&hide_border=true&theme=tokyonight&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferousco-dev&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
-
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | What it is | Live |
 | :--- | :--- | :--- |
-| 🛒 **[Vendly](https://github.com/Ferousco-dev/vendly)** | AI-powered social commerce — turns chat conversations into real, trackable transactions | — |
-| 🍔 **[Orente Grills](https://github.com/Ferousco-dev/oriente)** | Campus food-ordering web app, built with Next.js 15 + React 19 | [Demo](https://oriente-black.vercel.app) |
-| 🧩 **[CommuniCare](https://github.com/Ferousco-dev/communicate)** | An autism communication support app for children (Flutter + Supabase) | — |
-| 🔨 **[Forge](https://github.com/Ferousco-dev/Forge)** | A dignified work & finance tool for informal workers | — |
-| 🎙️ **[ReciteAI](https://github.com/Ferousco-dev/ai-voice)** | Text-to-speech web app powered by ElevenLabs | [Demo](https://ai-voice-umber.vercel.app) |
+| **[Vendly](https://github.com/Ferousco-dev/vendly)** | AI social commerce — turns chat conversations into real, trackable sales | — |
+| **[Orente Grills](https://github.com/Ferousco-dev/oriente)** | Campus food-ordering app built with Next.js 15 + React 19 | [Demo](https://oriente-black.vercel.app) |
+| **[CommuniCare](https://github.com/Ferousco-dev/communicate)** | A communication support app for children with autism, built in Flutter | — |
+| **[Forge](https://github.com/Ferousco-dev/Forge)** | A work & finance tool for informal workers, built with dignity in mind | — |
+| **[ReciteAI](https://github.com/Ferousco-dev/ai-voice)** | Text-to-speech web app that reads anything back to you | [Demo](https://ai-voice-umber.vercel.app) |
 
-> 🔒 Also building **Orastudy** (campus study hub) and **TapPay** (NFC tap-to-pay) — currently private, in active development.
+> Also cooking **Orastudy** (campus study hub) and **TapPay** (NFC tap-to-pay) in private repos. They'll go public when they're done embarrassing me.
 
-## 👾 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -88,6 +84,6 @@ I build across **web and mobile** with a bias for shipping. From AI agents and v
 
 </div>
 
-<p align="center"><i>“Build for real people, ship with dignity.”</i></p>
+<p align="center"><i>Frontend guy. Ask me to center something, not to write your backend.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:02569B&height=120&section=footer" alt="footer" />
