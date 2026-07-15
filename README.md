@@ -44,7 +44,7 @@ I build for **web and mobile**, and I care an unreasonable amount about how thin
 
 <p align="center">
   <a href="https://appmd.dev">
-    <img src="https://image.thum.io/get/width/1000/crop/620/noanimate/https://appmd.dev" width="72%" alt="appmd.dev preview" />
+    <img src="./assets/appmd-preview.png" width="80%" alt="appmd.dev preview" />
   </a>
 </p>
 
@@ -67,11 +67,6 @@ I build for **web and mobile**, and I care an unreasonable amount about how thin
 </p>
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferousco-dev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=00B4D8&title_color=00B4D8" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferousco-dev&layout=compact&hide_border=true&theme=tokyonight&title_color=00B4D8&langs_count=8" alt="top langs" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferousco-dev&hide_border=true&theme=tokyonight&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="streak" />
