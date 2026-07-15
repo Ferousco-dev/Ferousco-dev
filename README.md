@@ -27,9 +27,8 @@
 ```typescript
 const feranmi = {
   role: "Frontend, Mobile & AI Developer",
-  founder: "Ferousco",
+  founder: "AppMD",
   stack: ["Flutter", "Next.js", "React", "TypeScript", "Python"],
-  backend: ["Supabase", "Firebase", "Node.js"],
   focus: "Shipping clean, modern products that solve real problems",
   building: ["AI tools", "mobile apps", "social commerce", "study tools"],
   mindset: "Dignity, accessibility, and speed — build for real people",
