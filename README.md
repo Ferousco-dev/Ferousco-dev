@@ -40,6 +40,20 @@ const feranmi = {
 
 I build for **web and mobile**, and I care an unreasonable amount about how things feel to use. If a button is one pixel off, it haunts me. I've shipped everything from campus food-ordering to a communication app for kids — same energy every time: make it clean, make it fast, make it human.
 
+## Where I Live Online
+
+<p align="center">
+  <a href="https://appmd.dev">
+    <img src="https://image.thum.io/get/width/1000/crop/620/noanimate/https://appmd.dev" width="72%" alt="appmd.dev preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://appmd.dev">
+    <img src="https://img.shields.io/badge/Come%20say%20hi-appmd.dev-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit appmd.dev" />
+  </a>
+</p>
+
 ## Currently Building
 
 - Slick Flutter apps that don't look like tutorials
