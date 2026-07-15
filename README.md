@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=200&section=header&text=Oluwaferanmi%20Oresajo&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=32&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=54&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=180&section=header" alt="header" />
+
+<h1 align="center">Oluwaferanmi Oresajo</h1>
+<h3 align="center">Frontend &amp; Mobile Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00B4D8&center=true&width=560&lines=Yes%2C+I+did+center+the+div;Flutter+by+day%2C+Next.js+by+night;I+make+buttons+that+actually+work;Warning%3A+may+refactor+your+UI+unprompted" alt="typing" />
