@@ -96,6 +96,18 @@ I build for **web and mobile**, and I care an unreasonable amount about how thin
 
 </div>
 
+## 💡 Philosophy
+
 <p align="center"><i>Frontend guy. Ask me to center something, not to write your backend.</i></p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="160" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="160" /> -->
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="160"/>
+<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="160"/>
+</div>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:02569B&height=120&section=footer" alt="footer" />
