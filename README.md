@@ -84,7 +84,7 @@ I build for **web and mobile**, and I care an unreasonable amount about how thin
 
 > Also cooking **Orastudy** (campus study hub) and **TapPay** (NFC tap-to-pay) in private repos. They'll go public when they're done embarrassing me.
 
-## Contribution Graph
+## Contribution Graph.
 
 <div align="center">
 
