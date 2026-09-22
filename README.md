@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=180&section=header" alt="header" />
 
 <h1 align="center">Oluwaferanmi Oresajo</h1>
-<h3 align="center">Frontend &amp; Mobile Developer</h3>
+<h3 align="center">Software Engineer · Aspiring Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00B4D8&center=true&width=560&lines=Yes%2C+I+did+center+the+div;Flutter+by+day%2C+Next.js+by+night;I+make+buttons+that+actually+work;Warning%3A+may+refactor+your+UI+unprompted" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00B4D8&center=true&width=650&lines=Building+MailX+from+the+protocol+up;Learning+systems+by+actually+building+them;Go+%2B+Flutter+%2B+Next.js;Breaking+big+problems+into+smaller+systems" alt="typing" />
 </p>
 
 <p align="center">
@@ -27,44 +27,84 @@
 
 ## About Me
 
-```typescript
-const feranmi = {
-  title: "Frontend & Mobile Developer",
-  founder: "Ferousco",
-  weapons: ["Flutter", "Next.js", "React", "TypeScript"],
-  specialty: "Making things look good AND actually work",
-  currentMood: "centering a div (it's fine, i'm fine)",
-  isBackendGuy: false, // don't ask me to write your API abeg
-};
+```go
+type Developer struct {
+    Name       string
+    Role       string
+    Focus      []string
+    Building   string
+}
+
+feranmi := Developer{
+    Name:     "Oluwaferanmi Oresajo",
+    Role:     "Software Engineer",
+    Focus:    []string{"Backend Engineering", "System Design", "Web", "Mobile"},
+    Building: "MailX",
+}
 ```
 
-I build for **web and mobile**, and I care an unreasonable amount about how things feel to use. If a button is one pixel off, it haunts me. I've shipped everything from campus food-ordering to a communication app for kids — same energy every time: make it clean, make it fast, make it human.
+I build software across **backend, web, and mobile**, with a growing focus on backend engineering and system design.
 
-## Where I Live Online
+Currently working mostly with **Go, Flutter, Next.js, TypeScript, PostgreSQL, and Redis** — building projects that push me beyond frameworks into protocols, APIs, databases, queues, concurrency, and the systems underneath them.
+
+**Build it. Break it. Understand it. Make it better.**
+
+---
+
+# MailX
 
 <p align="center">
-  <a href="https://appmd.dev">
-    <img src="./assets/appmd-preview.png" width="80%" alt="appmd.dev preview" />
+  <a href="https://github.com/Ferousco-dev/Mailx">
+    <img src="./assets/mailx-preview.png" width="85%" alt="MailX preview" />
   </a>
 </p>
 
+### Email infrastructure built from the ground up.
+
+**MailX** is an open-source email infrastructure platform built in **Go** — covering SMTP, MIME processing, delivery queues, domain verification, API authentication, idempotency, retries, and reliable message delivery.
+
+Built to explore what happens beneath the APIs of modern email platforms and turn those fundamentals into real infrastructure.
+
 <p align="center">
-  <a href="https://appmd.dev">
-    <img src="https://img.shields.io/badge/Come%20say%20hi-appmd.dev-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit appmd.dev" />
+  <a href="https://github.com/Ferousco-dev/Mailx">
+    <img src="https://img.shields.io/badge/Explore_MailX-181717?style=for-the-badge&logo=github&logoColor=white" alt="MailX Repository" />
   </a>
 </p>
 
-## Currently Building
-
-- Slick Flutter apps that don't look like tutorials
-- Next.js sites with the kind of animations that make people scroll twice
-- Whatever new idea hijacked my brain this week
+---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,react,js,html,css,tailwind,figma,git,github,vercel&perline=13" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,flutter,dart,ts,nextjs,react,js,html,css,tailwind,postgres,redis,docker,figma,git,github,vercel&perline=9" alt="tech stack" />
 </p>
+
+---
+
+## Core Projects
+
+| Project | What I'm Building |
+| :--- | :--- |
+| **[MailX](https://github.com/Ferousco-dev/Mailx)** | Developer-focused email infrastructure built in Go, starting from SMTP and working upward into delivery, APIs, queues, authentication and domain infrastructure. |
+| **[AppMD](https://appmd.dev)** | APK analysis tooling that turns Android applications into structured architectural skeletons for developers. |
+| **[Ilana](https://github.com/Ferousco-dev/ilana)** | A software-engineering process system for coding agents, built around phases, gates, agents and engineering protocols. |
+| **TapPay** | A payment experience exploring NFC, QR and identity-based payment flows. |
+| **[Holibrary](https://github.com/Ferousco-dev/holibrary-backend)** | An online library management system exploring backend architecture, database design and real-world library workflows. |
+| **[Orastudy](https://play.google.com/store/apps/details?id=com.orastudy.orastudy)** | A campus-focused study platform designed around students, learning resources and academic collaboration. |
+
+---
+
+## Other Work
+
+### [Anti-Slop Design](https://github.com/Ferousco-dev/anti-slop-design)
+
+An open-source agent skill for pushing AI-generated interfaces away from repetitive template-style design and toward more deliberate product design.
+
+### [Forge](https://github.com/Ferousco-dev/Forge)
+
+A Flutter application designed around Nigeria's blue-collar workforce — jobs, verified work sessions, payments and portable work history.
+
+---
 
 ## GitHub Stats
 
@@ -72,19 +112,9 @@ I build for **web and mobile**, and I care an unreasonable amount about how thin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferousco-dev&hide_border=true&theme=tokyonight&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="streak" />
 </p>
 
-## Featured Projects
+---
 
-| Project | What it is | Live |
-| :--- | :--- | :--- |
-| **[Vendly](https://github.com/Ferousco-dev/vendly)** | AI social commerce — turns chat conversations into real, trackable sales | — |
-| **[Orente Grills](https://github.com/Ferousco-dev/oriente)** | Campus food-ordering app built with Next.js 15 + React 19 | [Demo](https://oriente-black.vercel.app) |
-| **[CommuniCare](https://github.com/Ferousco-dev/communicate)** | A communication support app for children with autism, built in Flutter | — |
-| **[Forge](https://github.com/Ferousco-dev/Forge)** | A work & finance tool for informal workers, built with dignity in mind | — |
-| **[ReciteAI](https://github.com/Ferousco-dev/ai-voice)** | Text-to-speech web app that reads anything back to you | [Demo](https://ai-voice-umber.vercel.app) |
-
-> Also cooking **Orastudy** (campus study hub) and **TapPay** (NFC tap-to-pay) in private repos. They'll go public when they're done embarrassing me.
-
-## Contribution Graph.
+## Contribution Graph
 
 <div align="center">
 
@@ -96,9 +126,13 @@ I build for **web and mobile**, and I care an unreasonable amount about how thin
 
 </div>
 
-## 💡 Philosophy
+---
 
-<p align="center"><i>Frontend guy. Ask me to center something, not to write your backend.</i></p>
+## Philosophy
+
+<p align="center">
+  <i>Don't just use the abstraction. Go one layer deeper and understand what it's hiding.</i>
+</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="160" />
@@ -107,7 +141,5 @@ I build for **web and mobile**, and I care an unreasonable amount about how thin
 <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="160"/>
 <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="160"/>
 </div>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:02569B&height=120&section=footer" alt="footer" />
