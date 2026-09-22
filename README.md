@@ -94,18 +94,6 @@ Built to explore what happens beneath the APIs of modern email platforms and tur
 
 ---
 
-## Other Work
-
-### [Anti-Slop Design](https://github.com/Ferousco-dev/anti-slop-design)
-
-An open-source agent skill for pushing AI-generated interfaces away from repetitive template-style design and toward more deliberate product design.
-
-### [Forge](https://github.com/Ferousco-dev/Forge)
-
-A Flutter application designed around Nigeria's blue-collar workforce — jobs, verified work sessions, payments and portable work history.
-
----
-
 ## GitHub Stats
 
 <p align="center">
