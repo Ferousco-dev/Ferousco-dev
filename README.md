@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=180&section=header" alt="header" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00B4D8&height=180&section=header" alt="header" /> -->
 
 <h1 align="center">Oluwaferanmi Oresajo</h1>
-<h3 align="center">Software Engineer · Aspiring Backend Engineer</h3>
+<h3 align="center">Software Engineer domain in mobile development</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00B4D8&center=true&width=650&lines=Building+MailX+from+the+protocol+up;Learning+systems+by+actually+building+them;Go+%2B+Flutter+%2B+Next.js;Breaking+big+problems+into+smaller+systems" alt="typing" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oluwaferanmi-oresajo-6597222a7/">
@@ -26,48 +26,29 @@
 ---
 
 ## About Me
+I build mobile applications, with a growing focus on creating performant, scalable, and well-engineered mobile experiences.
 
-```go
-type Developer struct {
-    Name       string
-    Role       string
-    Focus      []string
-    Building   string
-}
-
-feranmi := Developer{
-    Name:     "Oluwaferanmi Oresajo",
-    Role:     "Software Engineer",
-    Focus:    []string{"Backend Engineering", "System Design", "Web", "Mobile"},
-    Building: "MailX",
-}
-```
-
-I build software across **backend, web, and mobile**, with a growing focus on backend engineering and system design.
-
-Currently working mostly with **Go, Flutter, Next.js, TypeScript, PostgreSQL, and Redis** — building projects that push me beyond frameworks into protocols, APIs, databases, queues, concurrency, and the systems underneath them.
-
-**Build it. Break it. Understand it. Make it better.**
+Currently working mostly with Flutter and Dart, exploring mobile architecture, state management, native integrations, APIs, and the systems behind modern mobile applications.
 
 ---
 
-# MailX
+# MyDrop
 
 <p align="center">
-  <a href="https://github.com/Ferousco-dev/Mailx">
-    <img src="./assets/mailx-preview.png" width="85%" alt="MailX preview" />
+  <a href="https://github.com/Ferousco-dev/mydrop">
+    <img src="./assets/mailx-preview.png" width="85%" alt="mydrop preview" />
   </a>
 </p>
 
-### Email infrastructure built from the ground up.
+### File sharing, made seamless.
 
-**MailX** is an open-source email infrastructure platform built in **Go** — covering SMTP, MIME processing, delivery queues, domain verification, API authentication, idempotency, retries, and reliable message delivery.
+**MyDrop** is a cross-platform file-sharing application that makes it easy to transfer files between devices, especially between macOS and Android, without the usual friction.
 
-Built to explore what happens beneath the APIs of modern email platforms and turn those fundamentals into real infrastructure.
+Built to make sharing files across different operating systems fast, simple, and seamless.
 
 <p align="center">
-  <a href="https://github.com/Ferousco-dev/Mailx">
-    <img src="https://img.shields.io/badge/Explore_MailX-181717?style=for-the-badge&logo=github&logoColor=white" alt="MailX Repository" />
+  <a href="https://github.com/Ferousco-dev/MyDrop">
+    <img src="https://img.shields.io/badge/Explore_MyDrop-181717?style=for-the-badge&logo=github&logoColor=white" alt="MyDrop Repository" />
   </a>
 </p>
 
