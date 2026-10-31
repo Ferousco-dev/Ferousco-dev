@@ -17,7 +17,7 @@ Currently working mostly with Flutter and Dart, exploring mobile architecture, s
 
 <p align="center">
   <a href="https://github.com/Ferousco-dev/mydrop">
-    <img src="./assets/mailx-preview.png" width="85%" alt="mydrop preview" />
+    <img src="./assets/preview-mac.png" width="85%" alt="mydrop preview" />
   </a>
 </p>
 
